@@ -1662,7 +1662,7 @@ libraries, however. Others that you might want to look into include
 [dart:collection][] and [dart:typed\_data,][dart:typed\_data]
 as well as platform-specific libraries like the
 [Dart web development libraries][webdev libraries]
-and the [Flutter libraries.][docs.flutter]
+and the [Flutter libraries.][flutterdev.netlify.app]
 
 You can get yet more libraries by using the [pub package manager](/guides/packages). The
 [collection,]({{site.pub-pkg}}/collection)
