@@ -27,7 +27,7 @@ toc:
 
 dart-site: ''
 flutter: https://flutterdev.netlify.app
-flutter-docs: https://docs.flutterdev.netlify.app
+flutter-docs: https://flutterdev.netlify.app
 dart_api: https://api.dart.dev
 flutter_api: https://api.flutterdev.netlify.app
 pub: https://pub.dev
