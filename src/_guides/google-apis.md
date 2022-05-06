@@ -46,7 +46,7 @@ To find wrapper packages for Google client APIs, search for
 
 
 [Firebase]: https://firebase.google.com/use-cases
-[FlutterFire]: https://firebase.flutter.dev/
+[FlutterFire]: https://firebase.flutterdev.netlify.app/
 [`firebase` package]: {{site.pub-pkg}}/firebase
 [gapi-packages]: {{site.pub-pkg}}?q=dependency%3Agoogleapis
 [Google client APIs]: https://developers.google.com/api-client-library
@@ -54,5 +54,5 @@ To find wrapper packages for Google client APIs, search for
 [`gsheets` package]: {{site.pub-pkg}}/gsheets
 [gsheets-api-docs]: {{site.pub-api}}/gsheets/latest/gsheets/gsheets-library.html
 [gsheets-api-docs-gapi]: {{site.pub-api}}/googleapis/latest/sheets.v4/sheets.v4-library.html
-[flutter-google-apis]: https://flutter.dev/docs/development/data-and-backend/google-apis
+[flutter-google-apis]: https://flutterdev.netlify.app/docs/development/data-and-backend/google-apis
 [server-sample]: https://github.com/dart-lang/samples/tree/master/server/google_apis

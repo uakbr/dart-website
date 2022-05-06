@@ -47,5 +47,5 @@ go to [the SDK issue tracker](https://github.com/dart-lang/sdk/issues).
 [Dart 2]: /dart-2
 [build the SDK from source]: https://github.com/dart-lang/sdk/wiki/Building
 [Dart libraries]: /guides/libraries/library-tour
-[flutter]: https://flutter.dev/docs/get-started/install
+[flutter]: https://flutterdev.netlify.app/docs/get-started/install
 [site SDK version]: {{site.dart_api}}/{{site.data.pkg-vers.SDK.channel}}/{{site.data.pkg-vers.SDK.vers}}/index.html

@@ -110,7 +110,7 @@ other web apps should use browser tools such as the Chrome DevTools.
 
 For details on using DevTools with a Flutter app for any platform
 (including web) see the
-[DevTools documentation on flutter.dev.][Flutter devtools]
+[DevTools documentation on flutterdev.netlify.app.][Flutter devtools]
 
 
 ## Using DevTools with a non-Flutter web app

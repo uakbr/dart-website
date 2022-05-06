@@ -4,7 +4,7 @@ description: Read all about it! Here's a collection of books about Dart.
 ---
 
 Here's a collection of books about the Dart language.
-Many [Flutter books](https://flutter.dev/docs/resources/books)
+Many [Flutter books](https://flutterdev.netlify.app/docs/resources/books)
 also cover Dart.
 If you find another Dart book that might be helpful, please
 [let us know.](https://github.com/dart-lang/site-www/issues)

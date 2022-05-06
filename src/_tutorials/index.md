@@ -45,5 +45,5 @@ which are fundamental to most Dart programs.
 
 ## More tutorials
 
-See the [Flutter tutorials.](https://flutter.dev/tutorials)
+See the [Flutter tutorials.](https://flutterdev.netlify.app/tutorials)
 <!-- * [Dart Academy](https://dart.academy) -->

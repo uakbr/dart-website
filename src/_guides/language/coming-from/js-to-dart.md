@@ -73,7 +73,7 @@ also provide this functionality.)
 
 For more information on using commas to make your code
 read more like HTML, check out
-[Using trailing commas][] on flutter.dev.
+[Using trailing commas][] on flutterdev.netlify.app.
 
 For more information about Dart conventions and linting,
 check out [Effective Dart][] and [Linter rules][].

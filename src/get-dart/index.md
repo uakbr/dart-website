@@ -125,6 +125,6 @@ by [downloading the SDK as a zip file][].
 [downloading the SDK as a zip file]: /get-dart/archive
 [Debian stable]: https://www.debian.org/releases
 [Ubuntu LTS]: https://wiki.ubuntu.com/Releases
-[flutter]: https://flutter.dev/docs/get-started/install
+[flutter]: https://flutterdev.netlify.app/docs/get-started/install
 [site SDK version]: {{site.dart_api}}/{{site.data.pkg-vers.SDK.channel}}/{{site.data.pkg-vers.SDK.vers}}/index.html
 [a package manager]: https://github.com/dart-lang/sdk/wiki/Installing-beta-and-dev-releases-with-brew,-choco,-and-apt-get

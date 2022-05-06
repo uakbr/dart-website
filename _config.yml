@@ -26,10 +26,10 @@ toc:
 
 
 dart-site: ''
-flutter: https://flutter.dev
-flutter-docs: https://docs.flutter.dev
+flutter: https://flutterdev.netlify.app
+flutter-docs: https://docs.flutterdev.netlify.app
 dart_api: https://api.dart.dev
-flutter_api: https://api.flutter.dev
+flutter_api: https://api.flutterdev.netlify.app
 pub: https://pub.dev
 pub-api: https://pub.dev/documentation
 pub-pkg: https://pub.dev/packages

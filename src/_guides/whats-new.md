@@ -31,7 +31,7 @@ see [Dart 2.16: Improved tooling and platform handling][].
 
 We [updated the website infrastructure][] to a Docker-based setup
 to enable [easier contributions][] and more closely align with
-the setup for [docs.flutter.dev]({{site.flutter-docs}}).
+the setup for [docs.flutterdev.netlify.app]({{site.flutter-docs}}).
 
 In addition to other bug fixes and incremental improvements,
 we made the following changes to this site:
@@ -138,7 +138,7 @@ we made the following changes to this site:
 * Updated site code to use the [recommended linter rules][],
   instead of pedantic.
 * Updated the lists of [core libraries][] and [commonly used packages][].
-* Added a redirect from [dart.dev/jobs][] to flutter.dev/jobs,
+* Added a redirect from [dart.dev/jobs][] to flutterdev.netlify.app/jobs,
   to make it easier to find open positions on
   the Dart and Flutter teams.
 * Finished migrating all analyzed or tested code to null safety,

@@ -30,7 +30,7 @@ then try the following:
   such as in the [Dart cheatsheet codelab](/codelabs/dart-cheatsheet) or the
   [implicit animations codelab]({{site.flutter-docs}}/codelabs/implicit-animations),
   you might need to allow cookies for the embedding site domain, as well
-  (in these cases, **dart.dev** and **flutter.dev**, respectively).
+  (in these cases, **dart.dev** and **flutterdev.netlify.app**, respectively).
 
 * If you repeatedly reload a page that contains embedded DartPads, 
   then you might run into [GitHub rate limiting.][]
